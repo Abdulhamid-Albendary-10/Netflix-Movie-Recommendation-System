@@ -1,5 +1,5 @@
 # Netflix-Movie-Recommendation-System
-Built and Implemented Netflix Movie Recommendation System (Collaborative based recommendation) in Python, XGBoost, KNN, SVD
+Built and implemented Netflix Movie Recommendation System (Collaborative Based Recommendation) in Python, XGBoost, KNN, SVD
 <h2> 1.1 Problem Description </h2>
 <p>
 Netflix is all about connecting people to the movies they love. To help customers find those movies, they developed world-class movie recommendation system: CinematchSM. Its job is to predict whether someone will enjoy a movie based on how much they liked or disliked other movies. Netflix use those predictions to make personal movie recommendations based on each customer’s unique tastes. And while <b>Cinematch</b> is doing pretty well, it can always be made better.
