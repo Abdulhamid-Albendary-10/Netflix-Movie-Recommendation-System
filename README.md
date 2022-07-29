@@ -21,11 +21,12 @@ Netflix provided a lot of anonymous rating data, and a prediction accuracy bar t
 <li> SVD Decomposition : https://www.youtube.com/watch?v=P5mlg91as1c </li>
 </ul>
 <h2>1.4 Real world/Business Objectives and constraints  </h2>
-Objectives: 
-<br>
+<h4> Objectives </h4>
+<p>
 1. Predict the rating that a user would give to a movie that he ahs not yet rated. <br>
 2. Minimize the difference between predicted and actual rating (RMSE and MAPE) 
-
-Constraints: 
-<br>
+</p>
+<h4> Constraints </h4> 
+<p>
 1. Some form of interpretability.
+</p>
